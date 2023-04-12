@@ -738,7 +738,7 @@ bot.action(/get_wizard_+/,(ctx2gg)=>{
     })
 function saved(savectx){
     source=true
-
+    savectx.telegram.sendMessage(savectx.chat.id,"Here user would be getting he's saved locations in the form of buttons ,where clicking upon them would set up the source and destination location respectivelyand therefore easing the task of setting location in maps.");
 
     return;
 }
