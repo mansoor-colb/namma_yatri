@@ -18,7 +18,7 @@ trim: true,
 }
 })
 const userModel = mongoose.model("Namma_user",userschema)
-module. exports= userModel
+module. exports= userModel 
 
 
 
