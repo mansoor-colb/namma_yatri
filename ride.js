@@ -67,4 +67,4 @@ const rideschema =mongoose.Schema({
 })
 
 const rideModel = mongoose.model("Namma_rides",rideschema)
-module. exports= rideModel
+module. exports= rideModel 
