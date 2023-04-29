@@ -1,5 +1,5 @@
 
-# Nammayatri Auto Ride with Telegram Bot
+# Namma Yatri Auto Ride with Telegram Bot
 This Telegram bot allows users to book auto rides with Nammayatri without using the app. Users can also do quick bookings without giving locations, save trips to quick booking, check ride history, get current ride details, and contact customer support.
 
 **Features**
