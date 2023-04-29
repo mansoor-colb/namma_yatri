@@ -13,3 +13,4 @@ This Telegram bot allows users to book auto rides with Nammayatri without using 
 **Requirements**
 - **Node.js (v14 or higher)**
 - **Telegram bot token**
+- **Mongo db**
